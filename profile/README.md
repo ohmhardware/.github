@@ -6,4 +6,4 @@
 - Custom Chip Designs
 - Seamless hardware-software
 
-> QuantaFlux Labs is in development. We expect to launch services in Q4, 2025.
+> QuantaFlux Labs is in development. We expect to launch in Q4, 2025.
