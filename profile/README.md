@@ -1,8 +1,8 @@
 # QuantaFlux Labs
 > Building next-gen systems.
 
-### What we do
-- Advanced Circuits:
+### What we do:
+- Advanced Circuits
 - Custom Chip Designs
 - Seamless hardware-software
 
