@@ -1,4 +1,4 @@
-# QuantaFlux Labs
+# QuantaFlux
 > Building next-gen systems.
 
 ### Ohm AI
