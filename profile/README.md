@@ -1,4 +1,4 @@
-# QuantaFlux
+# Ohm Hardware
 > Building next-gen systems.
 
 ### Ohm AI
